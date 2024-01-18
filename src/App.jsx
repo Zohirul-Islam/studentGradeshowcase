@@ -5,6 +5,7 @@ import Navbar from "./Components/Navbar";
 import TableSection from "./Components/TableSection";
 
 
+
 function App() {
   return (
     <div className="bg-[#172227] font-[Inter] text-white">

@@ -9,7 +9,7 @@ export default function Navbar() {
         <a>
             <img
                 className="h-[40px]"
-                src="../src/assets/avatar.png"
+                src="../assets/avatar.png"
                 alt="Lws"
             />
         </a>
