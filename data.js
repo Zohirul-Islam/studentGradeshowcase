@@ -1,8 +1,9 @@
+import avatar from './public/assets/avatar.png'
 export const student1 =[
     {
         id:1,
         name:"sakib",
-        imageSrc:"../assets/avatar.png",
+        imageSrc:{avatar},
         grade:"A+",
         percentage:"98%",
     },
